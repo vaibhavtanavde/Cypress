@@ -1,4 +1,4 @@
-describe('Cypress Test Suite', () => {
+describe('Cypress Test Case', () => {
   it('Register a new user', () => {
     cy.visit('http://localhost:4200/register',{timeout:7000})
     cy.title().should("eq","Frontend")
