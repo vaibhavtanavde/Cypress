@@ -1,0 +1,11 @@
+{
+    "username": "Nutzername",
+    "password": "Passwort",
+    "login": "Anmeldung",
+    "createButton": "Erstellen",
+    "editButton": "Bearbeiten",
+    "updateButton": "Aktualisieren",
+    "roomsButton": "Räume",
+    "logoutButton": "Ausloggen"
+  }
+  
